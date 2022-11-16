@@ -11,4 +11,3 @@ de nuestro generado eléctrico esto también explica porque cuando cambiamos el 
 |---------------------------------------------------------------|
 |1.En GitHub.com, navegue a la página principal del repositorio.|
 |2.Encima de la lista de archivos, haga clic en ↓ Código.       |
-
