@@ -8,4 +8,4 @@ cuya polaridad depende  del sentido del campo magnético y el valor del flujo qu
 de nuestro generado eléctrico esto también explica porque cuando cambiamos el sentido del movimiento de la manivela   se apaga un led y se enciende el otro.
 
 | Para descargar este codigo | 
-| ------------- | ------------- |
+| -------------------------- |
